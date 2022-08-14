@@ -1,0 +1,12 @@
+# ./.gitconfig
+# note: this is NOT in ./.git/config (that file is above)
+[user]
+	email = 111249885+mcgaahealth@users.noreply.github.com
+	name = mcgaahealth-developer-dm
+[core]
+	editor = vim
+	sshCommand = "ssh -i ~/.ssh/gh-mcgaahealth"
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
